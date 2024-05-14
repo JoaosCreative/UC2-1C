@@ -9,10 +9,12 @@
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
 
-# Tereza Oliveira
 
-Atividade 1: Trello 
-- [Grupo](link)
+# João Gabriel Felix Almeida Sales
+
+- Link Trello 1:[clica aqui](https://trello.com/b/lUnbwPvc/prepara%C3%A7%C3%A3o-para-o-pernambucano).
+- Link trello 2:[clica aqui](https://trello.com/invite/b/eNy3YtxT/ATTIbc59786df21b41a3af9f18d75236446101D019D2/projeto).
+- Linguagem Swift:[clica aqui](https://www.canva.com/design/DAGE1QmbvAk/JbHnHo2CwcOJXQ7Ftqz6_A/edit?utm_content=DAGE1QmbvAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 
 
